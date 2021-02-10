@@ -12,7 +12,7 @@ select choice in "${options[@]}"; do
 	    # Injects mod into Discord
             ;;
         "Uninstall")
-            cd powercord && sudo npm run uninject
+            cd vizality && sudo npm run uninject
 	    # Uninjects mod
 	    break
             ;;
