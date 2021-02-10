@@ -1,5 +1,5 @@
-# SlipGit's Installers
-I made these because I'm lazy. Enjoy.
+# SlipGit's .sh Scripts
+Say that 5 times really fast! I made these because I was lazy. Enjoy.
 
 ## Installers
 
