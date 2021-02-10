@@ -18,7 +18,6 @@ select choice in "${options[@]}"; do
             ;;
 	"Quit")
 	    echo "User requested exit"
-	    exit
 	    ;;
         *) echo "invalid option $REPLY";;
     esac
