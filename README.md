@@ -1,9 +1,9 @@
-# sh scripts
+# SlipGit's Installers
 I made these because I'm lazy. Enjoy.
 
 ## Installers
 
-*(Note: Be sure to `chmod` read and write access for each script for them to work properly)*
+*(Note: Be sure to `chmod` read and write access to each script for them to work properly)*
 
 [Powercord Installer](https://gitcdn.link/repo/SlippingGitty/sh-scripts/main/installers/Discord/installpc.sh)
 
