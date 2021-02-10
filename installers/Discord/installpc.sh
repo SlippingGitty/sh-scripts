@@ -1,4 +1,5 @@
 #!/bin/bash
+cd $HOME
 PS3='Powercord Setup: '
 options=("Git Clone" "Install" "Uninstall" "Quit")
 select choice in "${options[@]}"; do
