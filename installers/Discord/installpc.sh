@@ -14,7 +14,6 @@ select choice in "${options[@]}"; do
         "Uninstall")
             cd powercord && sudo npm run unplug
 	    # Uninjects mod
-	    break
             ;;
 	"Quit")
 	    echo "User requested exit"
