@@ -15,7 +15,7 @@ Download Powercord and inject/unject into Discord Canary.
 
 If you need something lighter.
 
-![screenshot](https://files.catbox.moe/7fhx1d.gif)
+![screenshot](https://imgur.com/6rPGl34.png)
 ___
 [Vizality Setup Wizard](https://gitcdn.link/repo/SlippingGitty/sh-scripts/main/installers/Discord/VizalitySetupWizard.sh)
 
